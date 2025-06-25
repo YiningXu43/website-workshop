@@ -5,3 +5,5 @@ title: "Website-workshop"
 # Hello!!
 
 This is Nicole's website.
+
+![](images/Poki.jpg){width="200"}
