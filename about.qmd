@@ -1,0 +1,11 @@
+---
+title: "About"
+---
+
+About this site
+
+there's nothing special :)
+
+```{r}
+1 + 1
+```
